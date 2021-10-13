@@ -1,0 +1,7 @@
+C:\Users\quick\source\repos\10_Game\10_Game Console\bin\Debug\10_Game Console.exe.config
+C:\Users\quick\source\repos\10_Game\10_Game Console\bin\Debug\10_Game Console.exe
+C:\Users\quick\source\repos\10_Game\10_Game Console\bin\Debug\10_Game Console.pdb
+C:\Users\quick\source\repos\10_Game\10_Game Console\obj\Debug\10_Game Console.csproj.AssemblyReference.cache
+C:\Users\quick\source\repos\10_Game\10_Game Console\obj\Debug\10_Game Console.csproj.CoreCompileInputs.cache
+C:\Users\quick\source\repos\10_Game\10_Game Console\obj\Debug\10_Game Console.exe
+C:\Users\quick\source\repos\10_Game\10_Game Console\obj\Debug\10_Game Console.pdb
