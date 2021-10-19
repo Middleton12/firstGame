@@ -1,0 +1,2 @@
+C:\Users\quick\source\repos\10_Game\GameConsole\obj\Debug\GameConsole.csproj.AssemblyReference.cache
+C:\Users\quick\source\repos\10_Game\GameConsole\obj\Debug\GameConsole.csproj.CoreCompileInputs.cache

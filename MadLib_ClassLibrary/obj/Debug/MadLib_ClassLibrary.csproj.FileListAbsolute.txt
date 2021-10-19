@@ -1,0 +1,6 @@
+C:\Users\quick\source\repos\10_Game\MadLib_ClassLibrary\bin\Debug\MadLib_ClassLibrary.dll
+C:\Users\quick\source\repos\10_Game\MadLib_ClassLibrary\bin\Debug\MadLib_ClassLibrary.pdb
+C:\Users\quick\source\repos\10_Game\MadLib_ClassLibrary\obj\Debug\MadLib_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\quick\source\repos\10_Game\MadLib_ClassLibrary\obj\Debug\MadLib_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\quick\source\repos\10_Game\MadLib_ClassLibrary\obj\Debug\MadLib_ClassLibrary.dll
+C:\Users\quick\source\repos\10_Game\MadLib_ClassLibrary\obj\Debug\MadLib_ClassLibrary.pdb
